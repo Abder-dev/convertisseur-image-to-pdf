@@ -1,0 +1,7 @@
+.venv/
+.venv-python310/
+__pycache__/
+.DS_Store
+build/
+dist/
+*.spec
